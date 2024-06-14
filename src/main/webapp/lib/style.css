@@ -1,0 +1,17 @@
+.item-image{
+    overflow: hidden;
+    transition: 0.5s;
+}
+
+.item-image img:hover{
+    transform: scale(1.3);
+}
+
+.item-image img{
+    transition: 0.5s;
+}
+
+.footer a {
+    text-decoration: none;
+    margin-bottom: 5px;
+}
